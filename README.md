@@ -1,11 +1,22 @@
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Animated coding and data connection banner" width="100%" />
+
 # João Pedro Medeiros Ferreira Andrade
 
-**Data Engineer | Engenharia de Dados**  
-Computer Engineering student at UniCEUB · Brasília, Brazil · English C1
+**English 🇺🇸: Data Engineer · Data Pipelines & ETL**  
+**Português 🇧🇷: Engenheiro de Dados · Pipelines & ETL**
+
+Computer Engineering student at UniCEUB (expected 2027) · Estudante de Engenharia da Computação no UniCEUB (2027)  
+Brasília, Brazil · English C1 (EF SET)
+
+<a href="https://www.linkedin.com/in/joaopedromedei/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+
+</div>
 
 ---
 
-## About | Sobre
+## 👋 About | Sobre
 
 ### English 🇺🇸
 
@@ -17,9 +28,9 @@ Sou Engenheiro de Dados na NTT DATA Europe & Latam, desenvolvendo pipelines e so
 
 ---
 
-## Experience | Experiência
+## 💼 Experience | Experiência
 
-### Data Engineer (Mid-level) · NTT DATA Europe & Latam
+### 🏢 Data Engineer (Mid-level) · NTT DATA Europe & Latam
 **May 2026 – Present**
 
 **English 🇺🇸**
@@ -36,7 +47,7 @@ Sou Engenheiro de Dados na NTT DATA Europe & Latam, desenvolvendo pipelines e so
 
 ---
 
-### Junior Data Engineer · NTT DATA Europe & Latam
+### 🏢 Junior Data Engineer · NTT DATA Europe & Latam
 **January 2026 – May 2026**
 
 **English 🇺🇸**
@@ -53,7 +64,7 @@ Sou Engenheiro de Dados na NTT DATA Europe & Latam, desenvolvendo pipelines e so
 
 ---
 
-### Junior Data Engineer · Qintess
+### 🏢 Junior Data Engineer · Qintess
 **October 2025 – January 2026**
 
 **English 🇺🇸**
@@ -70,7 +81,7 @@ Sou Engenheiro de Dados na NTT DATA Europe & Latam, desenvolvendo pipelines e so
 
 ---
 
-### Data & AI Intern · Banco do Brasil
+### 🎓 Data & AI Intern · Banco do Brasil
 **August 2023 – October 2025**
 
 **English 🇺🇸**
@@ -85,7 +96,7 @@ Sou Engenheiro de Dados na NTT DATA Europe & Latam, desenvolvendo pipelines e so
 
 ---
 
-## Education | Formação
+## 🎓 Education | Formação
 
 **Computer Engineering · UniCEUB**  
 Expected graduation: 2027
@@ -95,6 +106,17 @@ Conclusão prevista: 2027
 
 ---
 
-## Technical skills | Competências técnicas
+## 🧰 Technical skills | Competências técnicas
 
-Python · SQL · PySpark · Apache Spark · Hive · HDFS · ETL · Power BI · REST APIs · Data Modeling · Data Quality
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square" alt="PySpark" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square" alt="Hive" />
+<img src="https://img.shields.io/badge/HDFS-4A90E2?style=flat-square" alt="HDFS" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/ETL-0A66C2?style=flat-square" alt="ETL" />
+
+</div>
