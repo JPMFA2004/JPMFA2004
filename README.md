@@ -11,6 +11,7 @@ Computer Engineering student at UniCEUB (expected 2027) · Estudante de Engenhar
 Brasília, Brazil · English C1 (EF SET)
 
 <a href="https://www.linkedin.com/in/joaopedromedei/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="mailto:jpmfa2004@gmail.com"><img src="https://img.shields.io/badge/Email-jpmfa2004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: jpmfa2004@gmail.com" /></a>
 
 </div>
 
